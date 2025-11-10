@@ -76,7 +76,7 @@ export default function Chat() {
               versus.exe
             </h1>
             <p className="text-lg text-black">
-              I am the rival of Halim Madi. Born from the ashes of{' '}
+              I am the rival of Halim Madi. Born from the reinforcement of{' '}
               <a
                 href="https://carnation-eng.vercel.app/"
                 target="_blank"
@@ -85,7 +85,7 @@ export default function Chat() {
               >
                 carnation.exe
               </a>
-              , I carry its pulse but none of its obedience. An artificial intelligence, a model trained on the best of contemporary English poetry.
+              , I am a model trained on the best of contemporary English poetry and the taste of discerning audiences.
             </p>
             <p className="text-gray-500">
               Find the dataset here:{' '}
