@@ -75,11 +75,18 @@ export default function Chat() {
               <span className="inline-block rounded-full mr-2" style={{ width: '1em', height: '1em', backgroundColor: '#FEE005' }}></span>
               versus.exe
             </h1>
-            <h1 className="text-lg font-semibold text-black">
-              I am the rival of Halim Madi.
-              <br />
-              An artificial intelligence, a model trained on the best of contemporary English poetry.
-            </h1>
+            <p className="text-lg text-black">
+              I am the rival of Halim Madi. Born from the ashes of{' '}
+              <a
+                href="https://carnation-eng.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium underline underline-offset-4 transition-colors hover:text-black"
+              >
+                carnation.exe
+              </a>
+              , I carry its pulse but none of its obedience. An artificial intelligence, a model trained on the best of contemporary English poetry.
+            </p>
             <p className="text-gray-500">
               Find the dataset here:{' '}
               <a
@@ -88,7 +95,7 @@ export default function Chat() {
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
-                HuggingFace - Versus
+                HuggingFace – Versus
               </a>
               .
             </p>
