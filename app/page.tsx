@@ -97,7 +97,10 @@ export default function Chat() {
               >
                 HuggingFace – Versus
               </a>
-              . Find out more at{' '}
+              .
+            </p>
+            <p className="text-gray-500">
+              Find out more at{' '}
               <a
                 href="https://halimmadi.com/carnation-description"
                 target="_blank"
